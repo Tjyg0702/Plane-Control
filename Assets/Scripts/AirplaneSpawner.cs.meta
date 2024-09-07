@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a8a22cf95f8571644bc5719ee1a4f53f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gplanePrefab: {fileID: 4385011833353174934, guid: 9d0f852d5e2e7bc4ebc5b3f87be53caa, type: 3}
+  - planePrefab: {fileID: 3257431135209379194, guid: 0738c7e7f3a4d10438bdba7e79e63e7a, type: 3}
+  - helicopterPrefab: {fileID: 230517888530648683, guid: bc54629ff1cb96a439297be712d17a2f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
